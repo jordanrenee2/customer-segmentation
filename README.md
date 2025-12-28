@@ -42,23 +42,6 @@ customer-segmentation/
 └── requirements.txt
 ```
 
-## Installation & Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/customer-segmentation.git
-cd customer-segmentation
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Open and run the Jupyter notebook:
-```bash
-jupyter notebook ecommerce_segmentation.ipynb
-```
 
 ## Key Insights
 

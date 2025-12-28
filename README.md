@@ -16,7 +16,7 @@ This project analyzes behavioral and transactional data from 10,000 e-commerce c
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.13.7**
 - **pandas** - Data manipulation and analysis
 - **numpy** - Numerical computing
 - **matplotlib & seaborn** - Data visualization

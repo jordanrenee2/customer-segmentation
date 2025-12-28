@@ -81,14 +81,3 @@ jupyter notebook ecommerce_segmentation.ipynb
 - Incorporate time-series analysis to track segment evolution
 - A/B test marketing strategies by segment
 
-## Contact
-
-Feel free to reach out with questions or feedback!
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
